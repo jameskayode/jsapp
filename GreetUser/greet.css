@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+.container{
+    margin: 0 auto;
+    background-color: gray;
+    width: 25%;
+    margin-top: 18%;
+}
+
+h1 {
+	margin-top: 50px;
+    padding: 20px;
+}
+
+#name {
+	margin: 20px;
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+    text-align: center;
+}
+
+#submit {
+	padding: 10px 20px;
+	background-color: #4CAF50;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	cursor: pointer;
+}
+
+#submit:hover {
+	background-color: #3e8e41;
+}
+#greeting{
+    font-weight: bold;
+    padding: 20px;
+    color: white;
+}
